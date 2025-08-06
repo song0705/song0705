@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I come from XiDian University,a freshmen majoring in computer science.
+- I come from XiDian University,a student majoring in computer science.
 <!--
 **song0705/song0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
